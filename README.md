@@ -6,7 +6,7 @@ When training neural networks with very large step sizes, gradient descent globa
 
 ![alt text](imgs/flatland_comparison.png)
 
-![alt text](img/flatland_characterization.png)
+![alt text](imgs/flatland_characterization.png)
 
 ## Installation
 
