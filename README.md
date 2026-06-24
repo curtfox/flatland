@@ -1,6 +1,11 @@
 # Flatland: The Adventures of Gradient Descent with Large Step Sizes
 
-This code runs the experiments given in the paper "Flatland: The Adventures of Gradient Descent with Large Step Sizes", which was accepted at ICML 2026. 
+This code runs the experiments given in the paper "Flatland: The Adventures of Gradient Descent with Large Step Sizes", which was accepted at ICML 2026. [[arXiv]](https://arxiv.org/pdf/2606.06722) [[Poster]](https://recorder-v3.slideslive.com/?share=111309&s=51496d74-1a85-43eb-8507-67827ec46966)
+
+When training neural networks with very large step sizes, gradient descent globally minimizes the sharpness, but Flatland is saddle point, and it should be avoided to turn unsuccesful trainings (NLS) into very successful ones (NLS-ub).
+
+![alt text](imgs/flatland_comparison.png)
+![alt text](img/flatland_characterization.png)
 
 ## Installation
 
