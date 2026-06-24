@@ -5,6 +5,7 @@ This code runs the experiments given in the paper "Flatland: The Adventures of G
 When training neural networks with very large step sizes, gradient descent globally minimizes the sharpness, but Flatland is saddle point, and it should be avoided to turn unsuccesful trainings (NLS) into very successful ones (NLS-ub).
 
 ![alt text](imgs/flatland_comparison.png)
+
 ![alt text](img/flatland_characterization.png)
 
 ## Installation
