@@ -8,4 +8,5 @@ torch==2.10.0
 torchinfo==1.8.0
 torchvision==0.25.0
 transformers==4.57.3
+wandb==0.24.0
 vit_pytorch==1.15.7
